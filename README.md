@@ -44,6 +44,10 @@ simulating a real enterprise environment with HQ and two branch offices.
 
 ## 📁 Files
 - `ccna-enterprise-network-lab.pkt` — Cisco Packet Tracer project file
+  ## 📸 Screenshots
+
+### Network Topology
+![Topology](topology.png)
 
 ## 👤 Author
 **Zeyad Mohamed**
