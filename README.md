@@ -43,8 +43,8 @@ simulating a real enterprise environment with HQ and two branch offices.
 - Cisco 2960 Switches
 
 ## 📁 Files
-- `network.pkt` — Cisco Packet Tracer project file
+- `ccna-enterprise-network-lab.pkt` — Cisco Packet Tracer project file
 
 ## 👤 Author
-**Your Name**
+**Zeyad Mohamed**
 CCNA Candidate | Networking Student
